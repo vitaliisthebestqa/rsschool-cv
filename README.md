@@ -1,1 +1,1 @@
-https://vitaliisthebestqa.github.io/rsschool-cv/cv
+https://github.com/vitaliisthebestqa/rsschool-cv/blob/gh-pages/CV.md
